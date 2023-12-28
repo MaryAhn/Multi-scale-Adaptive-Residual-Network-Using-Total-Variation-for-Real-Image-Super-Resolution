@@ -19,4 +19,28 @@ Structure of the proposed residual block.
 [Paper link](https://ieeexplore.ieee.org/abstract/document/9276925)
 
 ## Code Description
-available later 
+
+### Requirements
+- pytorch-gpu 
+- numpy
+- math
+- os
+- argparse
+- copy
+- queue
+- threading
+- importlib
+- time
+- cv2
+- torch.nn
+- torch.optim
+- torch.nn.functional
+
+### How To Use
+'''
+python get_sr.py --model=mdsr_mod5 --restore_path=your_directory\challenge\experiments\Track_1\model_200000.pth --input_path=your_directory\challenge\data\TestLRX2\TestLR --scale=2 --edsr_res_blocks=80 --output_path=your_directory\challenge\experiments\Track_1\results --cuda_device=0 --chop_forward 
+'''
+
+> --cuda_device=0: It is device selection in case of multiple GPU. If you have only one GPU, just set it to 0.
+> --input_path, --output_path, --restore_path: You have to change 'your_directory' part in each argument to suit your environment.
+> --scale: Upscaling factor. \times 2, \times 3, \times 4 are available. 
