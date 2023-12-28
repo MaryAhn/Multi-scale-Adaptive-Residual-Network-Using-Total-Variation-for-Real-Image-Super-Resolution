@@ -1,5 +1,5 @@
 # Multi-scale Adaptive Residual Network Using Total Variation for Real Image Super-Resolution
-**Multi-scale Adaptive Residual Network Using Total Variation for Real Image Super-Resolution** ___(2020 IEEE International Conference on Consumer Electronics - Asia)___
+**Multi-scale Adaptive Residual Network Using Total Variation for Real Image Super-Resolution** _(2020 IEEE International Conference on Consumer Electronics - Asia)_
 
 Keon-Hee Ahn* , Jun-Hyuk Kim**, Jun-Ho Choi**, Jong-Seok Lee**
 
