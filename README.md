@@ -2,6 +2,7 @@
 **Multi-scale Adaptive Residual Network Using Total Variation for Real Image Super-Resolution** ___(2020 IEEE International Conference on Consumer Electronics - Asia)___
 
 Keon-Hee Ahn* , Jun-Hyuk Kim**, Jun-Ho Choi**, Jong-Seok Lee**
+
 *Computer Science and Engineering, Ewha Womans University, Work done during an internship at Yonsei University. 
 **School of Integerated Technology, Yonsei University
 
